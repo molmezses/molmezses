@@ -1,4 +1,4 @@
-[![MasterHead](https://developer.apple.com/news/images/og/apple-developer-og-twitter.png)
+[![MasterHead](https://developer.apple.com/news/images/og/apple-developer-og-twitter.png)]
 <h1 align="center">Hi 👋, I'm Mustafa Olmezses</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 
