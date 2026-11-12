@@ -125,7 +125,7 @@ A full-stack car rental management platform designed to support multiple rental 
 
 <div align="center">
 
-<a href="https://linkedin.com/in/mustafa-olmezses">
+<a href="www.linkedin.com/in/mustafa-olmezses">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://medium.com/@mustafaolmezses">
@@ -134,7 +134,8 @@ A full-stack car rental management platform designed to support multiple rental 
 <a href="https://kaggle.com/moolemzses">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 </a>
-<a href="https://molmezses.github.io/Portfolio/">
+
+<a href="https://mustafaolmezses.com/">
   <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 
