@@ -53,13 +53,15 @@ Building mobile apps, web platforms, and scalable backend systems.
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css&theme=dark" />
 </p>
 
+
 ### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,java,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,java,spring&theme=dark" />
 </p>
 
-**REST APIs · Swagger/OpenAPI · Multi-Tenant Architecture**
+**Node.js · NestJS · REST APIs · Swagger/OpenAPI**
+
 
 ### 🗄️ Database & DevOps
 
@@ -116,15 +118,6 @@ A full-stack car rental management platform designed to support multiple rental 
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=molmezses&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
 
 ---
 
