@@ -10,7 +10,7 @@ Building mobile apps, web platforms, and scalable backend systems.
 <a href="https://mustafaolmezses.com/">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=safari&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/mustafa-olmezses">
+<a href="www.linkedin.com/in/mustafa-olmezses-423134259">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mustafaolmezses@gmail.com">
@@ -125,7 +125,7 @@ A full-stack car rental management platform designed to support multiple rental 
 
 <div align="center">
 
-<a href="www.linkedin.com/in/mustafa-olmezses">
+<a href="www.linkedin.com/in/mustafa-olmezses-423134259">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://medium.com/@mustafaolmezses">
