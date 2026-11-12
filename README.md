@@ -7,7 +7,7 @@
 
 Building mobile apps, web platforms, and scalable backend systems.
 
-<a href="https://molmezses.github.io/Portfolio/">
+<a href="https://mustafaolmezses.com/">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=safari&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/mustafa-olmezses">
